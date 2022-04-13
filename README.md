@@ -1,5 +1,5 @@
 # Overview
-Security Center Admin Console for Open Zero Trust@ Container Security Platform.
+Security Center Admin Console for Open Zero Trust Container Security Platform.
 
 # Bugs & Issues
 Please submit bugs and issues to [openzt/openzerotrust](//github.com/openzt/openzerotrust/issues) with a title starting with `[UI] `.
